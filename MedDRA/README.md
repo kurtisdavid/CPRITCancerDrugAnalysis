@@ -2,9 +2,13 @@
 
 ## Some Vocab:
 SOC - System Organ Class
+
 ADR - Adverse Drug Reaction (project really uses ADEs, but I misnamed these)
+
 ADE - Adverse Drug Event
+
 PT - Preferred Terms (synonymous to ADE, but this is how MedDRA classifies them)
+
 LLT - Lower level terms (synonyms to PTs, the PTs actually classify LLT according to MedDRA hierarchy)
 
 ## Structure of MedDRA:
@@ -12,9 +16,13 @@ LLT - Lower level terms (synonyms to PTs, the PTs actually classify LLT accordin
 Contains a hierarchy of terms which I will list: (starting from topmost to bottom)
 
 System Organ Class
+
 Higher Level Group Term
+
 Higher Level Term
+
 Preferred Term
+
 Lower Level Term
 
 
