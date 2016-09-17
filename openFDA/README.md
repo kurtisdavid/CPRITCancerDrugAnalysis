@@ -23,8 +23,8 @@ I also added some databases that are needed for the project; contact me if you w
 
 acmeSynonyms.xlsx - provided the synonyms for the drug set I worked on. Special thanks to my group for providing this beforehand.
 
-ADE_Database.xlsx - most recent version of the ADEs collected from each SOC that also contains the LLTs (synonyms))
+ADE_Database.xlsx - most recent version of the ADEs collected from each SOC that also contains the LLTs
 
-SOC_counts_MAIN.txt - contains the total number of associated reports between the ADEs of each SOC and a drug
+SOC_counts_MAIN.txt - contains the total number of associated reports between the ADEs of each SOC and a certain drug
 
 
