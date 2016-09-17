@@ -1,0 +1,21 @@
+Infections, infestations and immune system disorders-1563000
+Eye disorders-343361
+Hepatobiliary disorders-279797
+Reproductive system and breast disorders-353031
+Psychiatric disorders-1901555
+Neoplasms benign, malignant and unspecified (incl cysts and polyps)-398972
+General disorders and administration site conditions-4356462
+Musculoskeletal and connective tissue disorders-1431863
+Gastrointestinal disorders-2097526
+Endocrine disorders-235311
+Renal and urinary disorders-525319
+Skin and subcutaneous tissue disorders-1385152
+Blood and lymphatic system disorders-623192
+Ear and labyrinth disorders-73721
+Congenital familial and genetic disorders-45476
+Metabolism and nutrition disorders-812712
+Vascular disorders-1839774
+Cardiac disorders-1588371
+Nervous system disorders-2811399
+Pregnancy, puerperium and perinatal conditions-223017
+Respiratory, thoracic and mediastinal disorders-1612973
