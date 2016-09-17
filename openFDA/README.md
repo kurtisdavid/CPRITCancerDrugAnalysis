@@ -10,17 +10,11 @@ Take a look into their page if you want to consider doing a project similar: htt
 
 To replicate the process, I suggest going through the files in this order:
 
-__accumulate.py__ - 
+__accumulate.py__ - Goes through each JSON file of FAERS provided by openFDA and accumulates the total number of reports where a certain ADE-Drug relationship was found.
 
-Goes through each JSON file of FAERS provided by openFDA and accumulates the total number of reports where a certain ADE-Drug relationship was found.
+__prelim.py__ - Prepped the resultant JSON file in accumulate.py to only save the relationships related to our ACME drug dataset and those with > 10 counts.
 
-__prelim.py__ -
-
-Prepped the resultant JSON file in accumulate.py to only save the relationships related to our ACME drug dataset and those with > 10 counts.
-
-__contingency_table.py__ -
-
-Calculates the Proportional Reporting Ratios based on the ADE-Drug counts extracted from accumulate.py and prelim.py
+__contingency_table.py__ - Calculates the Proportional Reporting Ratios based on the ADE-Drug counts extracted from accumulate.py and prelim.py
 
 ### Example Data
 
