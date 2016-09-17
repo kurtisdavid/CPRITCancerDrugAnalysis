@@ -10,21 +10,21 @@ Take a look into their page if you want to consider doing a project similar: htt
 
 To replicate the process, I suggest going through the files in this order:
 
-accumulate.py
+__accumulate.py__
 
-prelim.py
+__prelim.py__
 
-contingency_table.py
+__contingency_table.py__
 
 
 ### Example Data
 
-I also added some databases that are needed for the project; contact me if you want to look at others (will need for /analysis/ files)
+I also added some databases that are needed for the project; contact me if you want to look at what the .py files result in making.
 
-acmeSynonyms.xlsx - provided the synonyms for the drug set I worked on. Special thanks to my group for providing this beforehand.
+__acmeSynonyms.xlsx__ - provided the synonyms for the drug set I worked on. Special thanks to my group for providing this beforehand.
 
-ADE_Database.xlsx - most recent version of the ADEs collected from each SOC that also contains the LLTs
+__ADE_Database.xlsx__ - most recent version of the ADEs collected from each SOC that also contains the LLTs
 
-SOC_counts_MAIN.txt - contains the total number of associated reports between the ADEs of each SOC and a certain drug
+__SOC_counts_MAIN.txt__ - contains the total number of associated reports between the ADEs of each SOC and a certain drug
 
 
